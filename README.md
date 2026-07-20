@@ -1,6 +1,13 @@
 # Student Attendance Face System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen?style=for-the-badge&logo=vercel)](https://student-attendance-system-zeta.vercel.app)
+
+🚀 **Live Demo**: [https://student-attendance-system-zeta.vercel.app](https://student-attendance-system-zeta.vercel.app)
+
+---
+
 A modern, web-based student attendance system built with React, Material-UI, and Vite. It utilizes facial recognition technology (`face-api.js`) to automatically mark student attendance via a webcam feed and provides an easy way to export attendance records to Excel.
+
 
 ## Features
 
